@@ -7,7 +7,7 @@ def second_challenge
       :hero => {},
       :hero_friends => {}
 
-      }, 
+    }, 
     :capulet => {
       :patriarch => {},
       :matriarch => {},
@@ -15,7 +15,7 @@ def second_challenge
       :heroine_friends => {}
       
       #your key/value pairs here!
-      }
+    }
     
   }
 
